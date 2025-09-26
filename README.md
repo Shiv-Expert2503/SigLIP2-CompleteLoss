@@ -18,7 +18,7 @@ The goal is to address the feature gap identified in [**Hugging Face `transforme
 ##  Current Status
 
 - LocCa LOSS (Research ongoing)
-- Day-5 (Implementation started, setted environment and added encoders first)
+- Day-6 (Implementation ongoing, setted environment and added encoders first)
 
 ---
 
