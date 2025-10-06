@@ -19,7 +19,7 @@ The goal is to address the feature gap identified in [**Hugging Face `transforme
 
 - LocCa LOSS (Research ongoing)
 - Day-16 
-  
+- LocCa Notebook: [LocCa Notebook](https://colab.research.google.com/drive/1baaV1PaO8qaPt_w5uWutkA9AgJvsSEAx?usp=sharing)
 ---
 
 ## Development Roadmap 
