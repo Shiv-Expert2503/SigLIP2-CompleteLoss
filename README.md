@@ -7,18 +7,18 @@ The goal is to address the feature gap identified in [**Hugging Face `transforme
 ---
 
 ## **Estimated timeline:**
-- Phase 1 (Research & Planning): 2-4 days
+- Phase 1 (Research & Planning): 2-4 days (Done)
  
-- Phase 2 (Implementation & Debugging): 5-17 days
+- Phase 2 (Implementation & Debugging): 5-17 days (Done)
  
-- Phase 3 (Testing & Validation): 2-3 days
+- Phase 3 (Testing & Validation): 2-3 days (Ongoing)
 
 ---
 
 ##  Current Status
 
 - LocCa LOSS (Research ongoing)
-- Day-17 
+- Day-18
 - LocCa Notebook: [LocCa Notebook](https://colab.research.google.com/drive/1baaV1PaO8qaPt_w5uWutkA9AgJvsSEAx?usp=sharing)
 ---
 
